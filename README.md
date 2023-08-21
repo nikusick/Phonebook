@@ -21,24 +21,30 @@
 ### Интерфейс
 
 #### Выбор задания
-![img.png](img.png)
+![image](https://github.com/nikusick/Phonebook/assets/91880536/6bd9a050-a5ee-4b59-a099-a0531d89a165)
+
+
 
 ##### Показать все контакты
 
 На экран выводятся все контакты постранично. На страницах выводится по 10 контактов.
 
-![img_2.png](img_2.png)
+![image](https://github.com/nikusick/Phonebook/assets/91880536/7290672b-ed17-43ed-ad56-fbb0ac2b8cf7)
+
 
 
 ##### Добавить новый контакт
 
-![img_3.png](img_3.png)
+![image](https://github.com/nikusick/Phonebook/assets/91880536/5b643906-37c2-4e84-ba2e-0d351252fbca)
+
+
 
 ##### Редактировать контакт
 
-![img_4.png](img_4.png)
+![image](https://github.com/nikusick/Phonebook/assets/91880536/e29f5e8e-da52-4f23-9468-e94e3824e662)
+
 
 
 ##### Поиск номеров
 
-![img_5.png](img_5.png)
+![image](https://github.com/nikusick/Phonebook/assets/91880536/47cd307f-3079-45e9-8657-17503dd2195e)
